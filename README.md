@@ -25,7 +25,7 @@ https://github.com/Muujiza470/hospital-database-design
 Developed and compared multiple classification models, including ensemble and hybrid approaches. Achieved strong predictive performance (AUC ≈ 0.92).  
 https://github.com/Muujiza470/loan-payback-ml
 
-### Smart Retail Analytics Hub  
+### Smart Retail Analytic Hub  
 Built a hybrid Oracle 23ai system combining normalized OLTP design with a dimensional OLAP star schema to support both transactions and analytics.  
 https://github.com/Muujiza470/smart-retail-analytics-hub
 
