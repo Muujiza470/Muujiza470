@@ -1,4 +1,3 @@
-## Hi there 👋
 # Preciosa Muujiza Ngoy Kalumba
 
 I am a graduate student in Artificial Intelligence & Business Analytics at the University of South Florida. My work focuses on building structured, data-driven solutions that combine statistical modeling, machine learning, and database design.
