@@ -27,11 +27,11 @@ https://github.com/Muujiza470/loan-payback-ml
 
 ### Smart Retail Analytic Hub  
 Built a hybrid Oracle 23ai system combining normalized OLTP design with a dimensional OLAP star schema to support both transactions and analytics.  
-https://github.com/Muujiza470/smart-retail-analytics-hub
+https://github.com/Muujiza470/smart-retail-analytic-hub
 
-### Flight Route or Logistic Regression  
+### Flight Route Regression Analysis  
 Applied linear and polynomial regression models in R to analyze airline pricing patterns and interpret statistical significance.  
-https://github.com/Muujiza470/flight-route-regression
+https://github.com/Muujiza470/flight-route-or-logistic-regression
 
 ### Global Labor & Internet Data Visualization  
 Integrated multi-source international datasets and developed a Tableau dashboard to analyze migration, labor participation, and internet access trends.  
