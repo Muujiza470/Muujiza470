@@ -29,7 +29,7 @@ https://github.com/Muujiza470/loan-payback-ml
 Built a hybrid Oracle 23ai system combining normalized OLTP design with a dimensional OLAP star schema to support both transactions and analytics.  
 https://github.com/Muujiza470/smart-retail-analytics-hub
 
-### Flight Route Regression Analysis  
+### Flight Route or Logistic Regression  
 Applied linear and polynomial regression models in R to analyze airline pricing patterns and interpret statistical significance.  
 https://github.com/Muujiza470/flight-route-regression
 
