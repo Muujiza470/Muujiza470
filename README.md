@@ -1,62 +1,39 @@
-# Preciosa Muujiza Ngoy Kalumba
+# Hi, I'm Preciosa Muujiza Ngoy Kalumba
 
-I am a graduate student in Artificial Intelligence & Business Analytics at the University of South Florida. My work focuses on building structured, data-driven solutions that combine statistical modeling, machine learning, and database design.
+M.S. Artificial Intelligence & Business Analytics student at the University of South Florida (May 2027). I build machine learning models, design data systems, and ship real products people use.
 
-I’m particularly interested in how analytics systems are designed end-to-end — from relational database architecture to predictive modeling and business interpretation.
+**Open to 2027 new-grad roles, internships, and co-ops in AI/ML, data science, and analytics. Happy to relocate anywhere in the U.S.**
 
----
-
-## Technical Background
-
-**Programming & Query Languages:** Python, R, SQL  
-**Analytics & Modeling:** Linear & Quadratic Regression, Classification Models, Ensemble Methods, ROC-AUC Evaluation  
-**Data Architecture:** Relational Databases (3NF), OLTP vs. OLAP Systems, Star Schema Design  
-**Tools:** Oracle 23ai, Scikit-learn, XGBoost, LightGBM, Tableau
+🌐 [Portfolio](https://muujiza470.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/preciosa-ngoy-kalumba) · 📫 preciosangoykalumba@gmail.com
 
 ---
 
-## Selected Projects
+## What I'm working on
 
-### Hospital Database System Design  
-Designed and modeled a relational hospital database with ERD/EERD diagrams, normalization (3NF), and structured SQL queries.  
-https://github.com/Muujiza470/hospital-database-design
+- **[WaziSoma](https://wazisoma.com)**: a reading assistant for people with ADHD, live as a web app and a [Chrome extension](https://chromewebstore.google.com/detail/egjlijpghbinkeeffjicdoggikinlhcm) on the Chrome Web Store
+- **Deep Learning**: CNNs, RNNs, and Transformers
+- **Text Analytics**: LLMs, RAG, and AI agents
+- **CS50 Web Programming with Python and JavaScript** (Harvard, edX)
 
-### Loan Payback Prediction (Machine Learning)  
-Developed and compared multiple classification models, including ensemble and hybrid approaches. Achieved strong predictive performance (AUC ≈ 0.92).  
-https://github.com/Muujiza470/loan-payback-ml
+## Featured projects
 
-### Smart Retail Analytic Hub  
-Built a hybrid Oracle 23ai system combining normalized OLTP design with a dimensional OLAP star schema to support both transactions and analytics.  
-https://github.com/Muujiza470/smart-retail-analytic-hub
+| Project | What it does | Stack |
+|---|---|---|
+| [Loan Payback Prediction](https://github.com/Muujiza470/loan-payback-ml) | Compared 6 classification models to predict loan repayment; XGBoost hit **0.92 ROC-AUC** | Python, scikit-learn, XGBoost, LightGBM |
+| [Smart Retail Analytics Hub](https://github.com/Muujiza470/smart-retail-analytic-hub) | Hybrid retail data platform: 3NF transactional schema + star schema for reporting + JSON Duality Views | Oracle 23ai, SQL, PL/SQL |
+| [Global Labor & Internet Access](https://github.com/Muujiza470/global-labor-internet-viz) | Joined OECD, ILO, ITU, and UN data to link internet access with foreign-born labor participation (2000–2023) | Python, Tableau |
+| [Hospital Database Design](https://github.com/Muujiza470/hospital-database-design) | Relational database for admissions, nurse assignments, treatments, beds, and billing | SQL, ERD/EERD, 3NF |
+| [Flight Route Regression](https://github.com/Muujiza470/Flight-routes-or-logistic-regression) | Linear vs. quadratic regression to explain how distance drives airfare | R |
 
-### Flight Route Regression Analysis  
-Applied linear and polynomial regression models in R to analyze airline pricing patterns and interpret statistical significance.  
-https://github.com/Muujiza470/flight-routes-or-logistic-regression
+## Experience
 
-### Global Labor & Internet Data Visualization  
-Integrated multi-source international datasets and developed a Tableau dashboard to analyze migration, labor participation, and internet access trends.  
-https://github.com/Muujiza470/global-labor-internet-viz
+**Business Analyst Intern, ApplySphere** (Mar – Jul 2026): queried a PostgreSQL job-listings database to analyze internship hiring trends, flagged duplicate postings, and turned the insights into a campaign that brought in 40 new user sign-ups.
 
----
+## Toolbox
 
-## Current Focus
+**Languages:** Python, R, SQL, JavaScript, HTML/CSS
+**ML & AI:** scikit-learn, XGBoost, LightGBM, neural networks, ROC-AUC evaluation, deep learning, LLMs & RAG
+**Data & Cloud:** PostgreSQL, Oracle 23ai, MySQL, star schema / OLTP-OLAP, AWS (EC2, S3, RDS, VPC, IAM)
+**Viz & Analytics:** Tableau, Power BI, Google Analytics 4
 
-I am continuing to deepen my understanding of predictive modeling, model evaluation, and scalable data system design, with an interest in applying analytics to real-world business and financial problems.
-
----
-
-LinkedIn: https://linkedin.com/in/preciosa-ngoy-kalumba
-<!--
-**Muujiza470/Muujiza470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also speak English, French, and Swahili.
