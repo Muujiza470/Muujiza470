@@ -10,7 +10,7 @@ M.S. Artificial Intelligence & Business Analytics student at the University of S
 
 ## What I'm working on
 
-- **[WaziSoma](https://wazisoma.com)**: a reading assistant for people with ADHD, live as a web app and a [Chrome extension](https://chromewebstore.google.com/detail/egjlijpghbinkeeffjicdoggikinlhcm) on the Chrome Web Store
+- **[WaziSoma](https://github.com/Muujiza470/wazisoma)** ([wazisoma.com](https://wazisoma.com)): a reading assistant for people with ADHD, live as a web app and a [Chrome extension](https://chromewebstore.google.com/detail/egjlijpghbinkeeffjicdoggikinlhcm) on the Chrome Web Store
 - **Deep Learning**: CNNs, RNNs, and Transformers
 - **Text Analytics**: LLMs, RAG, and AI agents
 - **CS50 Web Programming with Python and JavaScript** (Harvard, edX)
