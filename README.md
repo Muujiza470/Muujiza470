@@ -23,7 +23,7 @@ M.S. Artificial Intelligence & Business Analytics student at the University of S
 | [Smart Retail Analytics Hub](https://github.com/Muujiza470/smart-retail-analytic-hub) | Hybrid retail data platform: 3NF transactional schema + star schema for reporting + JSON Duality Views | Oracle 23ai, SQL, PL/SQL |
 | [Global Labor & Internet Access](https://github.com/Muujiza470/global-labor-internet-viz) | Joined OECD, ILO, ITU, and UN data to link internet access with foreign-born labor participation (2000–2023) | Python, Tableau |
 | [Hospital Database Design](https://github.com/Muujiza470/hospital-database-design) | Relational database for admissions, nurse assignments, treatments, beds, and billing | SQL, ERD/EERD, 3NF |
-| [Flight Route Regression](https://github.com/Muujiza470/Flight-routes-or-logistic-regression) | Linear vs. quadratic regression to explain how distance drives airfare | R |
+| [Flight Route Regression](https://github.com/Muujiza470/flight-price-regression) | Linear vs. quadratic regression to explain how distance drives airfare | R |
 
 ## Experience
 
